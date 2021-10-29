@@ -1,2 +1,2 @@
-# vrilya.github.io
+# GuildPages
 Meow
